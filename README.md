@@ -33,7 +33,7 @@ This project is a Power BI Dashboard built to visualize live and historical data
 4. Refresh the data to load live match details.
 5. Publish the dashboard to Power BI Service for online access (optional).
 
-## Screenshots
+## Preview
 - **Dashboard**: [LiveCricketAnalysis](https://app.powerbi.com/view?r=eyJrIjoiNDk3NWVlOTktOWE0OS00YjhkLTg0MTMtZGQ4NDQzN2Y5YzQxIiwidCI6ImQ0OGQ0NjhjLTI1MzktNGU4YS1iNmM0LTkwNTYxNDY5ZmU3ZCJ9&pageName=9c8ac4dfd78b06116b25)
 
 ## Customization
